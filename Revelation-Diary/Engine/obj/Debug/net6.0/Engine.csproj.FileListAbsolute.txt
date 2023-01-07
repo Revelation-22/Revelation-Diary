@@ -1,0 +1,12 @@
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\bin\Debug\net6.0\Engine.deps.json
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\bin\Debug\net6.0\Engine.dll
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\bin\Debug\net6.0\Engine.pdb
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\obj\Debug\net6.0\Engine.csproj.AssemblyReference.cache
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\obj\Debug\net6.0\Engine.dll
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\obj\Debug\net6.0\refint\Engine.dll
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\obj\Debug\net6.0\Engine.pdb
+D:\TheSolid_KANG\C#\WPF\Revelation-Diary\Revelation-Diary\Engine\obj\Debug\net6.0\ref\Engine.dll
