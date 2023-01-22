@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T04:09:17.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RL_NOjx67SLPpscKrpz4" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T12:43:55.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WETXjP7Hur1lub1kL2Mg" version="20.8.10" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,15 +30,15 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="달력에 해당하는 날짜에 제목을 함께 출력한다" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IR95qRPbh1qsCWNzaOz7-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IR95qRPbh1qsCWNzaOz7-1" target="IR95qRPbh1qsCWNzaOz7-6">
+        <mxCell id="IR95qRPbh1qsCWNzaOz7-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IR95qRPbh1qsCWNzaOz7-1" target="IR95qRPbh1qsCWNzaOz7-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IR95qRPbh1qsCWNzaOz7-1" value="특정 날짜의 일정 제목을 클릭한다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IR95qRPbh1qsCWNzaOz7-1" value="특정 날짜의 일정 제목을 클릭한다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IR95qRPbh1qsCWNzaOz7-6" value="메인 화면으로 이동해 클릭한 일정의 내용을 출력한다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IR95qRPbh1qsCWNzaOz7-6" value="메인 화면으로 이동해 클릭한 일정의 내용을 출력한다." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="460" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
