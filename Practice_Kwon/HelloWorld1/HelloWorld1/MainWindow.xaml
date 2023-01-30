@@ -1,0 +1,16 @@
+﻿<Window x:Class="HelloWorld1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWorld1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="label" Content="Enter a Name ?" HorizontalAlignment="Left" Margin="216,116,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Center" Margin="0,120,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="button" Content="Click Me!" HorizontalAlignment="Left" Margin="475,120,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="282,166,0,0" TextWrapping="Wrap" Text="Hello World! I am clickable" VerticalAlignment="Top" Width="158" MouseLeftButtonUp="TextBlock_MouseLeftButtonUp"/>
+
+    </Grid>
+</Window>
